@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap');
+.hero-img{
+  background-color: #1094CB;
+}
+.navbar{
+  padding-left: 125px;
+  padding-right: 80px;
+}
+#center{
+  padding-right: 300px;
+}
+.hero{
+  padding-top: 100px;
+}
+.integrations{
+  padding-top: 100px;
+}
+#body-content{
+  background-color: #F3F1EF;
+  padding-bottom: 100px;
+}
+.body-first{
+  padding-top: 100px;
+}
+.heading-frst{
+  padding-top: 95px;
+}
+.heading-scnd{
+  padding-top: 165px;
+}
+.heading-thrd{
+  padding-top: 165px;
+}
+.main-footer{
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-image: url(img/testimonial_background.png);
+}
+.img-fluid{
+  padding-left: 150px;
+  padding-bottom: 10px;
+}
+#int-heading{
+  margin-bottom: 60px;
+}
+#footer-card{
+  margin-top: 35px;
+}
+.card-img-top{
+  width: 30%;
+}
+}
+.footer-heading{
+  padding-bottom: 40px;
+  margin-bottom: 50px;
+}
+.card-img-top{
+  margin-left: 100px;
+}
+.card-title{
+  margin-left: 80px;
+}
